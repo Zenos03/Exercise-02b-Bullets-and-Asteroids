@@ -1,4 +1,4 @@
-Exercise for MSCH-C220
+## Exercise for MSCH-C220
 
 A user-controlled ship for a space-shooter game. Recently added the ability to shoot at asteroids. Created in Godot.
 
@@ -16,4 +16,3 @@ None
 
 ## Created by
 Xavier Evans
-```
