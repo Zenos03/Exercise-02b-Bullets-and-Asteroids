@@ -1,4 +1,6 @@
-## Exercise for MSCH-C220
+# Exercise-02a-Bullets-and-Asteroids
+
+Exercise for MSCH-C220
 
 A user-controlled ship for a space-shooter game. Recently added the ability to shoot at asteroids. Created in Godot.
 
